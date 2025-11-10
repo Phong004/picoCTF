@@ -27,7 +27,7 @@ Lyrics jump from verses to the refrain kind of like a subroutine call. There's a
 The program's source code can be downloaded [here](https://challenge-files.picoctf.net/c_verbal_sleep/f9515a5a3a8eda47118d8907e6f91bc4cd5b0159b4a2f1fb2e17dbf4872f6011/lyric-reader.py).
 Additional details will be available after launching your challenge instance.
 
-![Challenge Picture](.\Pictures\challenge.png)
+![Challenge Picture](Pictures\challenge.png)
 
 ---
 
