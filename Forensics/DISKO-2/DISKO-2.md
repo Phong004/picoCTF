@@ -1,4 +1,5 @@
-# DISKO 2 (Medium)
+# DISKO 2
+![Medium](https://img.shields.io/badge/Medium-orange) ![Forensics](https://img.shields.io/badge/Forensics-red) ![picoGym Exclusive](https://img.shields.io/badge/picoGym-Exclusive-blue)
 
 ## Description
 Can you find the flag in this disk image?
