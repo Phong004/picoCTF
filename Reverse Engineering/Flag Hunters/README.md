@@ -1,5 +1,5 @@
 # Flag Hunters Write-up
-![Easy](https://img.shields.io/badge/Easy-green) ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-red) ![picoCTF 2025](https://img.shields.io/badge/picoCTF%202025-blue)
+![Easy](https://img.shields.io/badge/Easy-green) ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-red) ![picoCTF 2025](https://img.shields.io/badge/picoCTF-2025-blue)
 
 ## TL;DR
 `song_lines[lip].split(';')` is used on attacker-controlled input without validation, allowing malformed or extra `;` tokens to cause IndexError (DoS), logic bypass, or downstream injection when tokens are consumed unsafely.
